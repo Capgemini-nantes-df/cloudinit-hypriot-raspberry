@@ -2,7 +2,9 @@
 Download Hypriot tool "flash", available here : https://github.com/hypriot/flash
 
 # Purpose
-Each RPI has his own config file. Flash allow us to prepare RPI automatically, with pre-installed software and config specified in configs files.
+Cloud init Eallow us to prepare RPI automatically, with pre-installed software and config specified in a config file. Check "rpi-config.yml" for more details.
+
+![cloudinit](cloudinit-demo.png)
 
 ## Additionnal packages added
 Two additional softwares are added :
